@@ -21,7 +21,7 @@
 
 html, body {
     font-family: var(--font1);
-    max-height: 100vh;
+    max-height: 97vh;
     background-color: darkgray;
 }
 
@@ -40,7 +40,7 @@ header > h1 {
 
 header > p {
     padding-bottom: 50px;
-    font-size: 1.7vw;
+    font-size: 1.8vw;
 }
 
 header a, footer a {
